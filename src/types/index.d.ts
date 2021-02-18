@@ -19,6 +19,7 @@ export interface INavFourProp {
   icon?: string | null
   createdAt?: string
   rate?: number
+  top?: boolean
   name: string
   desc: string
   url: string
@@ -61,6 +62,7 @@ export interface ISearchEngineProps {
 
 export interface IConfig {
   gitRepoUrl: string
+  branch: string
   hashMode: boolean
   homeUrl?: string
   title: string
