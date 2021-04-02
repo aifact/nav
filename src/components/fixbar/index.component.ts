@@ -22,6 +22,7 @@ import { setAnnotate } from '../../utils/ripple'
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class FixbarComponent {
+  @Input() showCollapse: boolean = true
   @Input() collapsed: boolean
   @Input() selector: string
   @Output() onCollapse = new EventEmitter()
@@ -43,6 +44,10 @@ export class FixbarComponent {
     {
       name: '切换到 Side',
       url: '/side'
+    },
+    {
+      name: '切换到 Shortcut',
+      url: '/shortcut'
     },
     {
       name: '切换到 App',
