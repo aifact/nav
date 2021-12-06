@@ -1,0 +1,6 @@
+# https://www.stormkit.io/docs/deployments/configuration/angular
+app:
+- redirects:
+    - from: /*
+      to: /dist/*
+      assets: true
