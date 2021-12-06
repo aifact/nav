@@ -38,10 +38,10 @@
     "blocked": false
   },
   {
-    "name": "豆瓣",
-    "url": "https://search.douban.com/book/subject_search?search_text=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
-    "placeholder": "书名、作者、ISBN",
+    "name": "种树搜索",
+    "url": "https://www.ecosia.org/search?q=",
+    "icon": "https://theme.zdassets.com/theme_assets/578979/d02352dcffaf7bb3963c53a8fcfa70c0bd278768.png",
+    "placeholder": "搜索神器",
     "blocked": false
   }
 ]
