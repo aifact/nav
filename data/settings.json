@@ -59,17 +59,22 @@
     {
       "url": "https://biostar.vercel.app",
       "icon": "",
-      "name": "vercel镜像"
+      "name": "vercel 镜像站"
     },
     {
       "url": "https://biostar.onrender.com",
       "icon": "",
-      "name": "render镜像- 美国"
+      "name": "render 镜像站- 美国"
     },
     {
       "url": "https://nav.stormkit.dev/",
       "icon": "",
-      "name": "stormkit镜像"
+      "name": "stormkit 镜像站"
+    },
+    {
+      "url": "https://biostar.netlify.app/",
+      "icon": "",
+      "name": "netlify 镜像站"
     }
   ]
 }
