@@ -1,5 +1,13 @@
 [
   {
+    "name": "种树搜索",
+    "url": "https://www.ecosia.org/search?q=",
+    "icon": "https://theme.zdassets.com/theme_assets/578979/d02352dcffaf7bb3963c53a8fcfa70c0bd278768.png",
+    "placeholder": "ecosia",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "站内",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
     "placeholder": "站内搜索",
