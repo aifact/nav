@@ -4,3 +4,4 @@ app:
     - from: /*
       to: /dist/
       assets: true
+      replace: true
