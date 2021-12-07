@@ -2,7 +2,7 @@
   {
     "name": "种树搜索",
     "url": "https://www.ecosia.org/search?q=",
-    "icon": "https://theme.zdassets.com/theme_assets/578979/d02352dcffaf7bb3963c53a8fcfa70c0bd278768.png",
+    "icon": "https://cdn-static.ecosia.org/assets/images/ico/favicon.ico",
     "placeholder": "ecosia",
     "blocked": false,
     "isInner": false
