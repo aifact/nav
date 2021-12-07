@@ -2,5 +2,5 @@
 app:
 - redirects:
     - from: /*
-      to: /dist
-      assets: false
+      to: /dist/
+      assets: true
