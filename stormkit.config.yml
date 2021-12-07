@@ -5,3 +5,4 @@ app:
       to: /dist/
       assets: true
       replace: true
+      cdn: true
