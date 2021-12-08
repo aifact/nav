@@ -15,6 +15,7 @@
     <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
     <img src="https://img.shields.io/github/license/xjh22222228/nav" />
+ <a href="https://app.netlify.com/sites/biostar/deploys"><img src="https://api.netlify.com/api/v1/badges/7a5f6d4f-69b4-440e-8d42-e960002b9965/deploy-status" alt="Netlify Status"></a>
   </p>
 </p>
 
