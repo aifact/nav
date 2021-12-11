@@ -1,8 +1,9 @@
 # https://www.stormkit.io/docs/deployments/configuration/angular
+# > nav@6.0.1 setup /home/app/repo
 app:
 -redirects:
     -from: /*
-     to: /index.html
+     to: /dist/index.html
      assets: false
      #replace: false
      #cdn: false
