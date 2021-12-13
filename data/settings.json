@@ -57,27 +57,27 @@
   "showLanguage": true,
   "mirrorList": [
     {
-      "url": "https://biostar.vercel.app/",
+      "url": "https://biostar.vercel.app/#/side",
       "icon": "",
       "name": "vercel 镜像站"
     },
     {
-      "url": "https://biostar.onrender.com/",
+      "url": "https://biostar.onrender.com/#/side",
       "icon": "",
       "name": "render 镜像站- 美国"
     },
     {
-      "url": "https://nav.stormkit.dev/",
+      "url": "https://nav.stormkit.dev/#/side",
       "icon": "",
       "name": "stormkit 镜像站"
     },
     {
-      "url": "https://biostar.netlify.app//",
+      "url": "https://biostar.netlify.app/#/side",
       "icon": "",
       "name": "netlify 镜像站"
     },
     {
-      "url": "https://biostar.pages.dev/",
+      "url": "https://biostar.pages.dev/#/side",
       "icon": "",
       "name": "cloudflare 镜像站"
     }
