@@ -57,12 +57,12 @@
   "showLanguage": true,
   "mirrorList": [
     {
-      "url": "https://biostar.vercel.app",
+      "url": "https://biostar.vercel.app/",
       "icon": "",
       "name": "vercel 镜像站"
     },
     {
-      "url": "https://biostar.onrender.com",
+      "url": "https://biostar.onrender.com/",
       "icon": "",
       "name": "render 镜像站- 美国"
     },
@@ -72,9 +72,14 @@
       "name": "stormkit 镜像站"
     },
     {
-      "url": "https://biostar.netlify.app/",
+      "url": "https://biostar.netlify.app//",
       "icon": "",
       "name": "netlify 镜像站"
+    },
+    {
+      "url": "https://biostar.pages.dev/",
+      "icon": "",
+      "name": "cloudflare 镜像站"
     }
   ]
 }
