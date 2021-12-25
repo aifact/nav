@@ -55,6 +55,7 @@
     }
   ],
   "showLanguage": true,
+  "showRate": true,
   "mirrorList": [
     {
       "url": "https://biostar.vercel.app/#/side",
