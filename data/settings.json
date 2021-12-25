@@ -64,7 +64,7 @@
     {
       "url": "https://biostar.onrender.com/#/side",
       "icon": "",
-      "name": "render 镜像站- 美国"
+      "name": "render 同步镜像站"
     },
     {
       "url": "https://nav.stormkit.dev/#/side",
@@ -80,6 +80,11 @@
       "url": "https://biostar.pages.dev/#/side",
       "icon": "",
       "name": "cloudflare 镜像站"
+    },
+    {
+      "url": "https://wired-flag.cloudvent.net/#/side",
+      "icon": "",
+      "name": "cloudcannon镜像站"
     }
   ]
 }
