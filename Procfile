@@ -1,1 +1,1 @@
-web: npm update && yarn build
+web: npm update && npm install yarn && yarn build
