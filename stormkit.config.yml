@@ -3,7 +3,7 @@
 app:
 - redirects:
     - from: /*
-     to: /dist/index.html
+     to: /dist
      assets: true
      #replace: false
      #cdn: false
